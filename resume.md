@@ -1,71 +1,115 @@
-Markdown Resumé
-===============
+Arnaud Durand
+=============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+Born on 24 may 1989 -- Citizenship: French (permit C) • Vasselin 14 -- CH-1880 Bex • Mobile: +41 76 425 47 75 -- [arnaud.durand@live.com](mailto:arnaud.durand@live.com)
 
-Interests
----------
+Overview
+--------
 
-*   Creating beautiful resumés from simple Markdown documents
+\> Polyvalent education in both HES (BSc.) and Universities (Msc.)
 
+\> Good knowledge of object-oriented programming
 
-Work Experience
----------------
+\> Versatile and quick to adapt to new technologies
 
-*   **Word Processor** (Redmond, WA)
-
-    *Junior Resumé Maker*, 2006 - 2007
-
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
-
-*   **\LaTeX\ + pdflatex**
-
-    *Senior Resumé Maker*, 2008 - 2010
-
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
-
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
-
-    *Web Resumé Intern*, August 2010
-
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
-
-*   **Markdown with Pandoc**
-
-    *Resumé Architect*, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+\> Self-learning person and a team player (familiar with agile methodologies)
 
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **BENEFRI, University of Fribourg** (CH-1700 Fribourg)
 
-    *B.S. in Submodules*, May 2012
+    *Msc., Computer Science (distributed system specialization)*, 2012--June 2015
+
+    -   Pre-Master complement 2012--2013 (2 semesters)
+    -   Master thesis: Distributed wideband software-defined radio receiver for heterogeneous systems
+
+*   **University of Applied Science Western Switzerland** (CH-3960 Sierre)
+
+    *BSc., Business Information Technology*, 2009--2012
+
+    -   Bachelor thesis: 3D visualization of room temperatures gradients from a building
+        the resulting tool is used in a production environment by trilogis.ch
+
+*   **La Cité Gymnasium** (CH-1014 Lausanne)
+
+    *Swiss Matura Diploma*, 2008--2009
+
+*   **Business School ECCGs** (CH-1870 Monthey)
+
+    *Commercial diploma*, 2004--2008
+
+
+Work Experience
+----------
+
+*   **businesstransfer.ch**
+
+    *Web developer*, 2014--2015
+
+    -   Co-development of businesstransfer.ch (web selling platform)
+    -   Experience with Django, ORM, database management
+
+*   **trilogis.ch**
+
+    *Freelance developer*, 2012--2015
+
+    -   Extension of a 3D visualization tool
+    -   Port from Flash to WebGL
+
+*   **Tourist office** (CH-1882 Gryon)
+
+    *Executive assistant*, 2007--2008
+
+    -   Management, events
+
+
+Publications
+------------
+
+*   **Conference proceeding**
+
+    Durand, Arnaud, et al. *"BitWorker, a Decentralized Distributed Computing System Based on BitTorrent."* Wired/Wireless Internet Communications. Springer International Publishing, 2015. 151-164.
 
 
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
+*   **Languages:** Java, Python, C#, C/C++, Processing, HTML/CSS/JavaScript
 
-*   Familiar with GNU Make, bash
+*   **Frameworks & libs:** Django, Unity3D, GNU Radio, OpenCL, ZeroMQ, Processing
+
+*   Familiar with **UNIX** systems, use Linux Mint (Ubuntu) on a daily basis
 
 
+Languages
+---------
+
+*   **French:** French native speaker, good writing skills.
+
+*   **English:** 	Professional working proficiency (B2)
+
+
+Interests
+---------
+
+*   **General:** Science, hardware and software hacks, embedded systems, distributed systems, game programming
+
+*   **Hobbies:** Cinema, rock concerts, multicopters, Arduino, Belgian beer tasting
+
+
+References
+----------
+
+*   **David Wannier**, *head of business information technology department*
+
+    -   HES-SO Valais, CH-3960 Sierre
+
+*   **Gilles Beljakovic**, *co-director and co-owner*
+
+    -   Trilogis sàrl, CH-2024 Saint-Aubin-Sauges
+
+*   **Christan Parisod**, *executive*
+
+    -   Tourist office, CH-1882 Gryon
