@@ -12,7 +12,9 @@ Overview
 
 \> Versatile and quick to adapt to new technologies
 
-\> Self-learning person and a team player (familiar with agile methodologies)
+\> Familiar with collaborative development and agile methodologies
+
+\> Self-learning person and autonomous
 
 
 Education
