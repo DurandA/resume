@@ -79,7 +79,7 @@ Skills
 
 *   **Languages:** Java, Python, C#, C/C++, Processing, HTML/CSS/JavaScript, SQL
 
-*   **Frameworks & libs:** Django, Unity3D, GNU Radio, OpenCL, ZeroMQ, Processing, ASP.NET
+*   **Frameworks & libs:** .NET/Mono, ASP.NET, Django, Unity3D, GNU Radio, ZeroMQ, OpenCL, Processing
 
 *   Familiar with **UNIX** systems, use Linux Mint (Ubuntu) on a daily basis
 
@@ -89,7 +89,7 @@ Languages
 
 *   **French:** French native speaker, good writing skills.
 
-*   **English:** 	Professional working proficiency (B2)
+*   **English:** Professional working proficiency (B2)
 
 
 Interests
