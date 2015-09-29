@@ -1,7 +1,7 @@
 Arnaud Durand
 =============
 
-Born on 24 may 1989 -- Citizenship: French (permit C) • Vasselin 14 -- CH-1880 Bex • Mobile: +41 76 425 47 75 -- [arnaud.durand@live.com](mailto:arnaud.durand@live.com)
+Born on 24 may 1989 -- Citizenship: French (C permit) • Vasselin 14 -- CH-1880 Bex • +41 76 425 47 75 -- [arnaud.durand@live.com](mailto:arnaud.durand@live.com)
 
 Overview
 --------
