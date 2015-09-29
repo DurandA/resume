@@ -30,6 +30,7 @@ Education
     *BSc., Business Information Technology*, 2009--2012
 
     -   Bachelor thesis: 3D visualization of room temperatures gradients from a building
+
         the resulting tool is used in a production environment by trilogis.ch
 
 *   **La Cité Gymnasium** (CH-1014 Lausanne)
@@ -76,9 +77,9 @@ Publications
 Skills
 ------
 
-*   **Languages:** Java, Python, C#, C/C++, Processing, HTML/CSS/JavaScript
+*   **Languages:** Java, Python, C#, C/C++, Processing, HTML/CSS/JavaScript, SQL
 
-*   **Frameworks & libs:** Django, Unity3D, GNU Radio, OpenCL, ZeroMQ, Processing
+*   **Frameworks & libs:** Django, Unity3D, GNU Radio, OpenCL, ZeroMQ, Processing, ASP.NET
 
 *   Familiar with **UNIX** systems, use Linux Mint (Ubuntu) on a daily basis
 
